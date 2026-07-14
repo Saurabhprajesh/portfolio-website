@@ -21,10 +21,10 @@ const projectsData = [
       "KeyShot material render production for marketing"
     ],
     images: [
-      "images/BP device/Screenshot 2025-06-02 111727.png",
-      "images/BP device/Screenshot (57).png",
-      "images/BP device/Screenshot (58).png",
-      "images/BP device/Screenshot 2025-06-02 111740.png"
+      "Screenshot 2025-06-02 111727.png",
+      "Screenshot (57).png",
+      "Screenshot (58).png",
+      "Screenshot 2025-06-02 111740.png"
     ]
   },
   {
@@ -46,15 +46,15 @@ const projectsData = [
       "RIOT EM ONE provides preventive alerts to avoid last minute hurdles to tackle with the appliances failure or servicing."
     ],
     images: [
-      "images/Em one/Em one.png",
-      "images/Em one/20250602_123931.jpg",
-      "images/Em one/20250602_123934.jpg",
-      "images/Em one/Screenshot (37).png",
-      "images/Em one/Screenshot (55).png",
-      "images/Em one/Screenshot (56).png",
-      "images/Em one/Screenshot (59).png",
-      "images/Em one/Screenshot 2025-06-02 105515.png",
-      "images/Em one/Screenshot 2025-06-02 105903.png"
+      "Em one.png",
+      "20250602_123931.jpg",
+      "20250602_123934.jpg",
+      "Screenshot (37).png",
+      "Screenshot (55).png",
+      "Screenshot (56).png",
+      "Screenshot (59).png",
+      "Screenshot 2025-06-02 105515.png",
+      "Screenshot 2025-06-02 105903.png"
     ]
   },
   {
@@ -77,10 +77,10 @@ const projectsData = [
       "It can calculate temperature, humidity, moisture and send out instant fire alert."
     ],
     images: [
-      "images/Env/Env plus.png",
-      "images/Env/Screenshot 2025-06-02 110008.png",
-      "images/Env/Screenshot 2025-06-02 110021.png",
-      "images/Env/Screenshot 2025-06-02 110129.png"
+      "Env plus.png",
+      "Screenshot 2025-06-02 110008.png",
+      "Screenshot 2025-06-02 110021.png",
+      "Screenshot 2025-06-02 110129.png"
     ]
   },
   {
@@ -102,13 +102,13 @@ const projectsData = [
       "Fully autonomous and always ready to power up your EV."
     ],
     images: [
-      "images/EV charger pot/Screenshot 2025-06-02 112045.png",
-      "images/EV charger pot/20240801_091647.jpg",
-      "images/EV charger pot/20240801_092741.jpg",
-      "images/EV charger pot/20240805_115647.jpg",
-      "images/EV charger pot/20250122_140424.jpg",
-      "images/EV charger pot/IMG-20250120-WA0001.jpg",
-      "images/EV charger pot/Screenshot 2025-06-02 112057.png"
+      "Screenshot 2025-06-02 112045.png",
+      "20240801_091647.jpg",
+      "20240801_092741.jpg",
+      "20240805_115647.jpg",
+      "20250122_140424.jpg",
+      "IMG-20250120-WA0001.jpg",
+      "Screenshot 2025-06-02 112057.png"
     ]
   },
   {
@@ -131,12 +131,12 @@ const projectsData = [
       "Molding analysis for thin-walled parts"
     ],
     images: [
-      "images/flasher/Screenshot (61).png",
-      "images/flasher/Screenshot (63).png",
-      "images/flasher/Screenshot (64).png",
-      "images/flasher/Screenshot (65).png",
-      "images/flasher/untitled.10.jpg",
-      "images/flasher/untitled.11.jpg"
+      "Screenshot (61).png",
+      "Screenshot (63).png",
+      "Screenshot (64).png",
+      "Screenshot (65).png",
+      "untitled.10.jpg",
+      "untitled.11.jpg"
     ]
   },
   {
@@ -159,18 +159,18 @@ const projectsData = [
       "You can manage devices in one manner, if you turn on the device using the app, you won't be able to turn it off manually and vice versa."
     ],
     images: [
-      "images/hom one/Screenshot (34).png",
-      "images/hom one/20250416_122250.jpg",
-      "images/hom one/20250602_123914.jpg",
-      "images/hom one/PXL_20230818_093812963.jpg",
-      "images/hom one/PXL_20230818_093814423.jpg",
-      "images/hom one/Screenshot (47).png",
-      "images/hom one/Screenshot (48).png",
-      "images/hom one/Screenshot (49).png",
-      "images/hom one/Screenshot (50).png",
-      "images/hom one/Screenshot (51).png",
-      "images/hom one/Screenshot (52).png",
-      "images/hom one/Screenshot (60).png"
+      "Screenshot (34).png",
+      "20250416_122250.jpg",
+      "20250602_123914.jpg",
+      "PXL_20230818_093812963.jpg",
+      "PXL_20230818_093814423.jpg",
+      "Screenshot (47).png",
+      "Screenshot (48).png",
+      "Screenshot (49).png",
+      "Screenshot (50).png",
+      "Screenshot (51).png",
+      "Screenshot (52).png",
+      "Screenshot (60).png"
     ]
   },
   {
@@ -193,14 +193,14 @@ const projectsData = [
       "It can measure the liquids, solid and slurry levels inside a container."
     ],
     images: [
-      "images/Levmon/Liomon.png",
-      "images/Levmon/20250602_124649.jpg",
-      "images/Levmon/Screenshot (29).png",
-      "images/Levmon/Screenshot (38).png",
-      "images/Levmon/Screenshot (53).png",
-      "images/Levmon/Screenshot (54).png",
-      "images/Levmon/Screenshot 2025-06-02 110955.png",
-      "images/Levmon/Screenshot 2025-06-02 111212.png"
+      "Liomon.png",
+      "20250602_124649.jpg",
+      "Screenshot (29).png",
+      "Screenshot (38).png",
+      "Screenshot (53).png",
+      "Screenshot (54).png",
+      "Screenshot 2025-06-02 110955.png",
+      "Screenshot 2025-06-02 111212.png"
     ]
   },
   {
@@ -223,14 +223,14 @@ const projectsData = [
       "Doctors as well as emergency first responders like firemen and policemen"
     ],
     images: [
-      "images/Med One/Medone.png",
-      "images/Med One/Screenshot (27).png",
-      "images/Med One/Screenshot 2025-06-02 111250.png",
-      "images/Med One/Screenshot 2025-06-02 111341.png",
-      "images/Med One/Screenshot 2025-06-02 111352.png",
-      "images/Med One/Screenshot 2025-06-02 111415.png",
-      "images/Med One/Screenshot 2025-06-02 111617.png",
-      "images/Med One/Screenshot 2025-06-02 111633.png"
+      "Medone.png",
+      "Screenshot (27).png",
+      "Screenshot 2025-06-02 111250.png",
+      "Screenshot 2025-06-02 111341.png",
+      "Screenshot 2025-06-02 111352.png",
+      "Screenshot 2025-06-02 111415.png",
+      "Screenshot 2025-06-02 111617.png",
+      "Screenshot 2025-06-02 111633.png"
     ]
   },
   {
@@ -254,18 +254,18 @@ const projectsData = [
       "Motion simulation verification"
     ],
     images: [
-      "images/RC Bot/Screenshot (46).png",
-      "images/RC Bot/20240811_180717.jpg",
-      "images/RC Bot/20240811_180723.jpg",
-      "images/RC Bot/20240812_153049.jpg",
-      "images/RC Bot/20240812_153100.jpg",
-      "images/RC Bot/20240812_153107.jpg",
-      "images/RC Bot/Screenshot 2025-06-02 121722.png",
-      "images/RC Bot/Screenshot 2025-06-02 121803.png",
-      "images/RC Bot/Screenshot 2025-06-02 121852.png",
-      "images/RC Bot/Screenshot 2025-06-02 121909.png",
-      "images/RC Bot/untitled.7.jpg",
-      "images/RC Bot/VID-20240811-WA0010.mp4"
+      "Screenshot (46).png",
+      "20240811_180717.jpg",
+      "20240811_180723.jpg",
+      "20240812_153049.jpg",
+      "20240812_153100.jpg",
+      "20240812_153107.jpg",
+      "Screenshot 2025-06-02 121722.png",
+      "Screenshot 2025-06-02 121803.png",
+      "Screenshot 2025-06-02 121852.png",
+      "Screenshot 2025-06-02 121909.png",
+      "untitled.7.jpg",
+      "VID-20240811-WA0010.mp4"
     ]
   },
   {
@@ -287,15 +287,15 @@ const projectsData = [
       "The bot automatically go to his charging stations"
     ],
     images: [
-      "images/RIOT AMR X100/AMR 100.png",
-      "images/RIOT AMR X100/PXL_20230509_071449068.jpg",
-      "images/RIOT AMR X100/PXL_20230509_071907271.jpg",
-      "images/RIOT AMR X100/PXL_20230510_080023839.jpg",
-      "images/RIOT AMR X100/PXL_20230510_080027459.jpg",
-      "images/RIOT AMR X100/Screenshot 2025-06-02 114537.png",
-      "images/RIOT AMR X100/Screenshot 2025-06-02 114551.png",
-      "images/RIOT AMR X100/Screenshot 2025-06-02 114742.png",
-      "images/RIOT AMR X100/Screenshot 2025-06-02 114759.png"
+      "AMR 100.png",
+      "PXL_20230509_071449068.jpg",
+      "PXL_20230509_071907271.jpg",
+      "PXL_20230510_080023839.jpg",
+      "PXL_20230510_080027459.jpg",
+      "Screenshot 2025-06-02 114537.png",
+      "Screenshot 2025-06-02 114551.png",
+      "Screenshot 2025-06-02 114742.png",
+      "Screenshot 2025-06-02 114759.png"
     ]
   },
   {
@@ -317,14 +317,14 @@ const projectsData = [
       "ensuring an effective response that can help to minimize the risk of serious injury or even fatality."
     ],
     images: [
-      "images/RIOT BSM ONE/Screenshot 2025-06-02 104706.png",
-      "images/RIOT BSM ONE/20250602_124041.jpg",
-      "images/RIOT BSM ONE/Screenshot (35).png",
-      "images/RIOT BSM ONE/Screenshot (44).png",
-      "images/RIOT BSM ONE/Screenshot (45).png",
-      "images/RIOT BSM ONE/Screenshot 2025-06-02 104906.png",
-      "images/RIOT BSM ONE/Screenshot 2025-06-02 104937.png",
-      "images/RIOT BSM ONE/Screenshot 2025-06-02 104948.png"
+      "Screenshot 2025-06-02 104706.png",
+      "20250602_124041.jpg",
+      "Screenshot (35).png",
+      "Screenshot (44).png",
+      "Screenshot (45).png",
+      "Screenshot 2025-06-02 104906.png",
+      "Screenshot 2025-06-02 104937.png",
+      "Screenshot 2025-06-02 104948.png"
     ]
   },
   {
@@ -347,10 +347,10 @@ const projectsData = [
       "It is up to 128 Pixels, 1500 Nits brightness."
     ],
     images: [
-      "images/RIOT DISP ONE/Screenshot 2025-06-02 104423.png",
-      "images/RIOT DISP ONE/Screenshot (33).png",
-      "images/RIOT DISP ONE/Screenshot 2025-06-02 104459.png",
-      "images/RIOT DISP ONE/DISP One.mp4"
+      "Screenshot 2025-06-02 104423.png",
+      "Screenshot (33).png",
+      "Screenshot 2025-06-02 104459.png",
+      "DISP One.mp4"
     ]
   },
   {
@@ -370,16 +370,16 @@ const projectsData = [
       "RIOT MAR ONE is equipped with a high performance viewing system thanks to a HD camera combined with strong LED lights for providing high resolution imagery."
     ],
     images: [
-      "images/Submarine/MArine.png",
-      "images/Submarine/IMG-20230619-WA0007.jpg",
-      "images/Submarine/IMG-20230619-WA0008.jpg",
-      "images/Submarine/IMG-20230619-WA0009.jpg",
-      "images/Submarine/IMG-20230619-WA0010.jpg",
-      "images/Submarine/Screenshot 2025-06-02 122300.png",
-      "images/Submarine/Screenshot 2025-06-02 122313.png",
-      "images/Submarine/Screenshot 2025-06-02 122327.png",
-      "images/Submarine/Screenshot 2025-06-02 122519.png",
-      "images/Submarine/Screenshot 2025-06-02 122602.png"
+      "MArine.png",
+      "IMG-20230619-WA0007.jpg",
+      "IMG-20230619-WA0008.jpg",
+      "IMG-20230619-WA0009.jpg",
+      "IMG-20230619-WA0010.jpg",
+      "Screenshot 2025-06-02 122300.png",
+      "Screenshot 2025-06-02 122313.png",
+      "Screenshot 2025-06-02 122327.png",
+      "Screenshot 2025-06-02 122519.png",
+      "Screenshot 2025-06-02 122602.png"
     ]
   }
 ];
